@@ -1,20 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 機能追加/改善
+about: タイトルに概要を書く
 title: ''
 labels: enhancement
 assignees: shinamon2
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### 背景
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### 仕様
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### 期限(なし or xx/xx)
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 担当
+- PM:
+- Designer:
+- Engineer:
+
+### doneになる条件（やること）
+
+- [ ]
